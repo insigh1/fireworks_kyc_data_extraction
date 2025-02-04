@@ -3,34 +3,34 @@
 Preprocessed: License 1.png
   - Original size: 2041757 bytes
   - Final size: 210508 bytes
-  - Processing time: 22.53 ms
+  - Processing time: 22.30 ms
 
 Preprocessed: License-2.jpg
   - Original size: 457331 bytes
   - Final size: 214732 bytes
-  - Processing time: 6.76 ms
+  - Processing time: 6.66 ms
 
 Preprocessed: License-3.jpeg
   - Original size: 771799 bytes
   - Final size: 146081 bytes
-  - Processing time: 8.87 ms
+  - Processing time: 8.62 ms
 
 Preprocessed: passport-1.jpeg
   - Original size: 157504 bytes
   - Final size: 249813 bytes
-  - Processing time: 8.04 ms
+  - Processing time: 7.77 ms
 
 Preprocessed: passport-2.jpg
   - Original size: 214108 bytes
   - Final size: 297394 bytes
-  - Processing time: 4.98 ms
+  - Processing time: 5.06 ms
 
 
 === SUMMARY ===
 Total images processed:          5
-Total local preprocessing time:  0.0512 sec
+Total local preprocessing time:  0.0504 sec
 Combined original size:          3642499 bytes
 Combined final size:             1118528 bytes
 Size reduced (absolute):         2523971 bytes
 Size reduced (percentage):       69.29%
-Total runtime (all steps):       60.33 ms
+Total runtime (all steps):       59.37 ms
