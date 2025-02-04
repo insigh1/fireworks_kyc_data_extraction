@@ -1,0 +1,116 @@
+{
+    "filename": "license_3_preprocessed.jpg",
+    "id_type": "drivers_license",
+    "id_number": "0000123456789",
+    "first_name": "JOHN",
+    "last_name": "DOE",
+    "dob": "05/28/2024",
+    "place_of_birth": "N/A",
+    "address": "1234 YOUR STREET",
+    "state": "NORTH CAROLINA",
+    "country": "USA",
+    "class": "B",
+    "sex": "M",
+    "hgt": "5'-10\"",
+    "wgt": "150",
+    "hair": "GRY",
+    "eyes": "BRO",
+    "issue_date_iss": "05/28/2024",
+    "expiration_date_exp": "05/28/2029"
+}
+
+{
+    "filename": "license_2_preprocessed.jpg",
+    "id_type": "drivers_license",
+    "id_number": "999999999",
+    "first_name": "JANICE ANN",
+    "last_name": "SAMPLE",
+    "dob": "01/07/2005",
+    "place_of_birth": "N/A",
+    "address": "123 MAIN STREET APT. 1",
+    "state": "PENNSYLVANIA",
+    "country": "USA",
+    "class": "C",
+    "sex": "F",
+    "hgt": "5'-05\"",
+    "wgt": "125",
+    "hair": "BLU",
+    "eyes": "BLU",
+    "issue_date_iss": "01/07/2022",
+    "expiration_date_exp": "01/08/2026"
+}
+
+{
+    "filename": "passport_1_preprocessed.jpg",
+    "id_type": "passport",
+    "id_number": "963545637",
+    "first_name": "JOHN",
+    "last_name": "DOE",
+    "dob": "15 MAR 1996",
+    "place_of_birth": "CALIFORNIA, U.S.A.",
+    "address": "N/A",
+    "state": "N/A",
+    "country": "USA",
+    "class": "N/A",
+    "sex": "M",
+    "hgt": "N/A",
+    "wgt": "N/A",
+    "hair": "N/A",
+    "eyes": "N/A",
+    "issue_date_iss": "14 APR 2017",
+    "expiration_date_exp": "14 APR 2027"
+}
+
+{
+    "filename": "passport_2_preprocessed.jpg",
+    "id_type": "passport",
+    "id_number": "575034801",
+    "first_name": "BENJAMIN",
+    "last_name": "FRANKLIN",
+    "dob": "17 JAN 1706",
+    "place_of_birth": "PROVINCE OF MASSACHUSETTS BAY, U.S.A.",
+    "address": "N/A",
+    "state": "N/A",
+    "country": "USA",
+    "class": "N/A",
+    "sex": "M",
+    "hgt": "N/A",
+    "wgt": "N/A",
+    "hair": "N/A",
+    "eyes": "N/A",
+    "issue_date_iss": "15 JAN 2018",
+    "expiration_date_exp": "15 JAN 2028"
+}
+
+{
+    "filename": "license_1_preprocessed.jpg",
+    "id_type": "drivers_license",
+    "id_number": "11234568",
+    "first_name": "IMA",
+    "last_name": "CARDHOLDER",
+    "dob": "08/31/1977",
+    "place_of_birth": "N/A",
+    "address": "2570 24TH STREET",
+    "state": "CALIFORNIA",
+    "country": "USA",
+    "class": "C",
+    "sex": "F",
+    "hgt": "5'-05\"",
+    "wgt": "125 lb",
+    "hair": "BRN",
+    "eyes": "BRN",
+    "issue_date_iss": "08/31/2009",
+    "expiration_date_exp": "08/31/2014"
+}
+
+
+--- Performance & Design Statistics ---
+Number of images processed: 5
+Total number of API calls: 1
+Total time for request: 20872.33 ms
+Average time per image: 4174.47 ms
+
+--- Usage / Token Statistics ---
+  Prompt tokens: 5155
+  Completion tokens: 1027
+  Total tokens used: 6182
